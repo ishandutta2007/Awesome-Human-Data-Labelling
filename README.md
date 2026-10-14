@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Human-Data-Labelling/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Human-Data-Labelling/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Data-Labelling?style=social)](https://github.com/ishandutta2007/Awesome-Human-Data-Labelling/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Human-Data-Labelling?style=social)](https://github.com/ishandutta2007/Awesome-Human-Data-Labelling/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <p align="center">
@@ -77,7 +77,7 @@ The following table compares the premier commercial data annotation platforms an
 
 ## 💻 Open-Source GitHub Projects
 
-The following list includes production-ready open-source annotation frameworks, RLHF training engines, and agent-assisted dataset curation platforms. Entries are **sorted in descending order by GitHub Stars**.
+The following list includes production-ready open-source annotation frameworks, RLHF training engines, and agent-assisted dataset curation platforms. Entries are **sorted in descending order by GitHub_Stars**.
 
 - **[HumanSignal / label-studio](https://github.com/HumanSignal/label-studio)**  
   <a href="https://github.com/HumanSignal/label-studio/stargazers"><img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white" alt="Label Studio Stars" /></a>  
@@ -166,7 +166,7 @@ Contributions are welcome and greatly appreciated! Follow these steps to submit 
    ```
 3. **Add or modify entries** in `README.md`:
    - For SaaS products, verify starting tier prices and explicit free tier / free trial limits.
-   - For open-source repositories, include a valid GitHub star badge linked to its `/stargazers` page.
+   - For open-source repositories, include a valid GitHub Stars_Badge linked to its `/stargazers` page.
 4. **Ensure factual accuracy** and include official documentation links.
 5. **Submit a Pull Request** with a brief summary of the changes made.
 
